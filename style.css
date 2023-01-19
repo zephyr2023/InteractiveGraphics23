@@ -13,9 +13,11 @@ html {
 .gallery img:hover {
   filter: grayscale(100%);
   filter: contrast(50%);
-  transform: scale(1.1);
+  transform: scale(1.05);
+  border-style: solid;
   border-width: 6px;
   border-color: #dcdcdc;
+  
 
 body { color: #dcdcdc;
 }
