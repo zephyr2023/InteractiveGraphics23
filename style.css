@@ -17,6 +17,13 @@ html {
   border-style: solid;
   border-width: 6px;
   border-color: #dcdcdc;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
   
 
 body { color: #dcdcdc;
